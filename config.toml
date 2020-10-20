@@ -1,5 +1,5 @@
 title = "Saiful Rijal"
-baseURL = "https://saifulrijal-ds.github.io/portofolio-page/"
+baseURL = "https://saifulrijal-ds.github.io/SaifulRijal-page/"
 languageCode = "en-us"
 theme = "ananke"
 #themesDir = "../.."
@@ -9,7 +9,8 @@ SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-cannonifyURLs = true
+canonifyURLs = true
+publishDir = "docs"
 
 [sitemap]
   changefreq = "monthly"
